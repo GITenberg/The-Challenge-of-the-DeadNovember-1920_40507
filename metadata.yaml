@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4157
     wikipedia: http://en.wikipedia.org/wiki/Stephen_Graham_%28author%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40507#The-Challenge-of-the-DeadNovember-1920
 gutenberg_issued: '2012-08-14'
 gutenberg_type: Text
 identifiers:
